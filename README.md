@@ -6,5 +6,7 @@ Install fastfetch, fish, figlet, lolcat -> sudo pacman -S --noconfirm fish figle
 Author of the config file = https://github.com/CarterLi
 
 Make a directory on /etc/ for fastfetch configuration file and put the configjsonc there -> sudo mkdir /etc/fastfetch/; sudo mv /path-to-file/config.jsonc /etc/fastfetch/;
+
 Put the config.fish on its correct path -> mv /path-to-file/config.fish ~/.config/fish/
+
 Delete any files that are already on the cited paths (example: if there is a config.fish on ~/.config/fish/ delete it)
