@@ -1,5 +1,5 @@
 # fish-arch-motd-config
-A message for each time you open the Friendly Interactive SHell (fish) design on archlinux.
+A message for each time you open the Friendly Interactive SHell (fish) designed on archlinux.
 
 # Step by step guide
 Install fastfetch, fish, figlet, lolcat -> sudo pacman -S --noconfirm fish figlet fastfetch lolcat   
