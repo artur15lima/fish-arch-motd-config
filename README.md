@@ -3,6 +3,7 @@ A message for each time you open the Friendly Interactive SHell (fish) designed 
 
 # Step by step guide
 /path-to-file/file = where you have downloaded the available files 
+
 Most of these steps can be made with a file manager.
 
 1. Install fastfetch, figlet, fish, lolcat -> sudo pacman -S --noconfirm fish figlet fastfetch lolcat   
