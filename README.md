@@ -18,8 +18,8 @@ Author of the config file = https://github.com/CarterLi
 
 If you want for other users to have this motd (Message Of The Day) copy the config.fish on their respectives ~/.config/fish/ directories 
 
-![2024-09-28_18-00](https://github.com/user-attachments/
+![2024-09-28_18-00](https://github.com/user-attachments/assets/71298fb7-35d2-4351-870e-97c8585256fb)
 
-https://github.com/user-attachments/assets/796dcac2-ad9c-4c61-b6f1-31d8d33c318c
+![2024-09-28_18-00](https://github.com/user-attachments/assets/796dcac2-ad9c-4c61-b6f1-31d8d33c318c)
 
-assets/71298fb7-35d2-4351-870e-97c8585256fb)
+
