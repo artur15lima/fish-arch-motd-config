@@ -3,11 +3,12 @@ A message for each time you open the Friendly Interactive SHell (fish) designed 
 
 # Step by step guide
 /path-to-file/file = where you have downloaded the available files 
+Author of the config file = https://github.com/CarterLi
 
-Most of these steps can be made with a file manager.
+Download the 2 files available ("config.jsonc" and "config.fish")
+Most of these steps can be taken with a file manager.
 
 1. Install fastfetch, figlet, fish, lolcat -> sudo pacman -S --noconfirm fish figlet fastfetch lolcat   
-Author of the config file = https://github.com/CarterLi
 
 2. Make a directory on /etc/ for fastfetch configuration file and put the config.jsonc there -> sudo mkdir /etc/fastfetch/; sudo mv /path-to-file/config.jsonc /etc/fastfetch/;
 
